@@ -38,7 +38,7 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+KAKAO62's GitHub Stats
 
 <a href="https://github.com/KAKAO62/KAKAO62">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAO62&hide=html,tex&layout=compact" />
