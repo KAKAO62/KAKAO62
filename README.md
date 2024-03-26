@@ -1,4 +1,8 @@
-I’m a senior full-stack developer and Blockchain Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Python. I work as a backend engineer building large scale distributed systems. I'm also familiar with frontend coding with Reactjs, Vuejs, and Angular. I'm always open to collaborating on projects and innovative ideas.
+I'm a highly skilled and innovative Full-Stack Developer with a strong background in blockchain engineering. 
+I am a young professional who has graduated from a prestigious university and currently resides in Canada. 
+With a passion for cutting-edge technologies and a knack for problem-solving, I am dedicated to developing high-quality software solutions. 
+Experienced in full-stack development, blockchain architecture, and smart contract development, I bring a valuable blend of technical expertise and creativity to every project.
+
 
 - 🔭 I’m currently working on my ideas and Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
