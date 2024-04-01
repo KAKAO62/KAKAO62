@@ -174,12 +174,14 @@ Experienced in full-stack development, blockchain architecture, and smart contra
 <a href="https://github.com/KAKAO62/KAKAO62">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAO62&hide=html,tex&layout=compact" />
 </a>
-<a href="https://git.io/streak-stats">
- <img height="164" width="420" src="https://streak-stats.demolab.com?user=sarhan-a&date_format=j%20M%5B%20Y%5D&background=FFFFFF41&dates=000000&sideLabels=000000&currStreakLabel=CF610E" alt="Sarhan's streak stats" />
-</a> 
+
 <a href="https://github.com/KAKAO62/KAKAO62">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KAKAO62&count_private=true&show_icons=true&include_all_commits=true" alt="Thomas's GitHub Stats" />
 </a>
+
+<a href="https://git.io/streak-stats">
+ <img height="164" width="420" src="https://streak-stats.demolab.com?user=sarhan-a&date_format=j%20M%5B%20Y%5D&background=FFFFFF41&dates=000000&sideLabels=000000&currStreakLabel=CF610E" alt="Sarhan's streak stats" />
+</a> 
 
 <!-- ## 🏆 GitHub Trophies-->
 
