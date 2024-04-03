@@ -15,7 +15,7 @@ Experienced in full-stack development, blockchain architecture, and smart contra
 - ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, React, API design and Blockachain technology.
 
-<p align="left"> <a href="https://github.com/SManOlaf38"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
+<p align="left"> <a href="https://github.com/KAKAO62"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
 
  <h2>My experience is in utilizing:</h2>
  <table>
