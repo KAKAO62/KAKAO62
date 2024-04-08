@@ -8,15 +8,6 @@ I am a young professional who has graduated from a prestigious university and cu
 With a passion for cutting-edge technologies and a knack for problem-solving, I am dedicated to developing high-quality software solutions. 
 Experienced in full-stack development, blockchain architecture, and smart contract development, I bring a valuable blend of technical expertise and creativity to every project.
 
-
-- 🔭 I’m currently working on my ideas and Exploring blockchain technologies.
-- 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
-- 😄 I'm familiar with Smart Contracts(solidity), DeFi, NFT, especially cryptograph.
-- ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
-- 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, React, API design and Blockachain technology.
-
-<p align="left"> <a href="https://github.com/KAKAO62"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
-
  <h2>My experience is in utilizing:</h2>
  <table>
   <tr>
